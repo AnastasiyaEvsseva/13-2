@@ -26,4 +26,10 @@
 * Зашифруйте созданный раздел с помощью LUKS.
 * В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.
 
-![image](https://github.com/AnastasiyaEvsseva/13-2/assets/151757353/b07a480d-b83d-4d81-a3ec-e0787cf98c45)
+https://github.com/felimonist/13.2/blob/main/img/2.JPG
+
+![image](https://github.com/AnastasiyaEvsseva/13-2/assets/151757353/3a4ce5cd-b85c-4923-878c-f1069ba25232)
+
+![image](https://github.com/AnastasiyaEvsseva/13-2/assets/151757353/6fea97a7-cb74-435a-9951-ef46bd571279)
+
+
