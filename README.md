@@ -26,13 +26,18 @@
 * Зашифруйте созданный раздел с помощью LUKS.
 * В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.
 
-![image](https://github.com/AnastasiyaEvsseva/13-2/assets/151757353/51af05e8-a572-4174-bf0f-36aba827e78c)
+![image](https://github.com/AnastasiyaEvsseva/13-2/assets/151757353/cae09cd9-c5b4-4707-8a6d-cc0c437e459e)
 
-![image](https://github.com/AnastasiyaEvsseva/13-2/assets/151757353/e2b420ea-de95-4318-8086-b4a69ed9ca48)
+![image](https://github.com/AnastasiyaEvsseva/13-2/assets/151757353/4fa4f4bb-3168-445c-a7e4-d8b020a2fca8)
+
+![image](https://github.com/AnastasiyaEvsseva/13-2/assets/151757353/f7114008-df03-4c71-98e7-ea8ab40357e2)
+
+![image](https://github.com/AnastasiyaEvsseva/13-2/assets/151757353/6817a1b7-1cc1-4cf4-88cd-45f9349ba7d3)
 
 
-![image](https://github.com/AnastasiyaEvsseva/13-2/assets/151757353/3a4ce5cd-b85c-4923-878c-f1069ba25232)
 
-![image](https://github.com/AnastasiyaEvsseva/13-2/assets/151757353/6fea97a7-cb74-435a-9951-ef46bd571279)
+
+
+
 
 
