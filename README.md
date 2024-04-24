@@ -34,7 +34,7 @@
 
 ![image](https://github.com/AnastasiyaEvsseva/13-2/assets/151757353/6817a1b7-1cc1-4cf4-88cd-45f9349ba7d3)
 
-
+Задание выполнялось на 2 устройствах: дома и на работе 
 
 
 
